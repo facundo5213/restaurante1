@@ -1,0 +1,2 @@
+C:\Users\bedui\Desktop\tesis\Restaurante\SERVICE\obj\Debug\SERVICE.csproj.AssemblyReference.cache
+C:\Users\bedui\Desktop\tesis\Restaurante\SERVICE\obj\Debug\SERVICE.csproj.CoreCompileInputs.cache
